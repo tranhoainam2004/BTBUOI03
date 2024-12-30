@@ -1,0 +1,11 @@
+D:\BTBUOI03\BTBUOI03\bin\Debug\BTBUOI03.exe.config
+D:\BTBUOI03\BTBUOI03\bin\Debug\BTBUOI03.exe
+D:\BTBUOI03\BTBUOI03\bin\Debug\BTBUOI03.pdb
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.csproj.AssemblyReference.cache
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.Form1.resources
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.Program.resources
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.Properties.Resources.resources
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.csproj.GenerateResource.cache
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.csproj.CoreCompileInputs.cache
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.exe
+D:\BTBUOI03\BTBUOI03\obj\Debug\BTBUOI03.pdb
